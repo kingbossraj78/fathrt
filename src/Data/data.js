@@ -8,7 +8,7 @@ export const data = [
         image: "https://i.ibb.co/NnJFLr3C/1750956143-9bd5dbe4b9f079b38e441c6f9fb16695-1.jpg",
         discount: "77% Off",
         price: "₹1846",
-        additionalPrice: "₹1.00",
+        additionalPrice: "₹199.00",
         sliderImages: [
             "https://i.ibb.co/NnJFLr3C/1750956143-9bd5dbe4b9f079b38e441c6f9fb16695-1.jpg",
             
