@@ -57,20 +57,19 @@ export const data = [
             
         ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
     },
-     {
-        id: 26,
+    {
+        id: 3,
         type: 'product',
-        title: "Moet & Chandon Ice Imp 75cl",
-        image: "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
-        discount: "75% Off",
-        price: "₹5999",
-        additionalPrice: "₹329.00",
+        title: "(3 PACK)Royal Salute 21 Year Old Blended Scotch Whisky.",
+        image: "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
+        discount: "78% Off",
+        price: "11999",
+        additionalPrice: "699.00",
         sliderImages: [
-            "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
-        
+            "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
     },
     {
         id: 23,
@@ -116,18 +115,19 @@ export const data = [
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
-        id: 3,
+        id: 26,
         type: 'product',
-        title: "(3 PACK)Royal Salute 21 Year Old Blended Scotch Whisky.",
-        image: "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
-        discount: "78% Off",
-        price: "11999",
-        additionalPrice: "699.00",
+        title: "Moet & Chandon Ice Imp 75cl",
+        image: "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
+        discount: "75% Off",
+        price: "₹5999",
+        additionalPrice: "₹329.00",
         sliderImages: [
-            "https://i.ibb.co/0RhcJDqf/20250629-114559.jpg",
+            "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
+        
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
         id: 4,
