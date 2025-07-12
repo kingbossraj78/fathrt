@@ -30,6 +30,33 @@ export const data = [
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
+    {
+        id: 12,
+        type: 'product',
+        title: "(4 PACK)Seagram's Imperial Blue Superior Grain Whisky",
+        image: "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
+        discount: "80% Off",
+        price: "₹2799",
+        additionalPrice: "₹319.00",
+        sliderImages: [
+            "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/jgtyujrtyhj.jpg"
+    },
+    {
+        id: 13,
+        type: 'product',
+        title: "(5 PACK)Royal Stag Barrel Select Whisky",
+        image: "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
+        discount: "75% Off",
+        price: "₹4599",
+        additionalPrice: "₹359.00",
+        sliderImages: [
+            "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
+            
+        ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
+    },
      {
         id: 26,
         type: 'product',
@@ -165,7 +192,7 @@ export const data = [
         image: "https://i.ibb.co/0Rn2VkfH/20250629-120743.jpg",
         discount: "99% Off",
         price: "₹11999",
-        additionalPrice: "₹999.00",
+        additionalPrice: "₹899.00",
         sliderImages: [
             "https://i.ibb.co/0Rn2VkfH/20250629-120743.jpg",
             
@@ -213,33 +240,6 @@ export const data = [
             
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgwerfghweqrtgyqertqertqwert.jpg"
-    },
-    {
-        id: 12,
-        type: 'product',
-        title: "(4 PACK)Seagram's Imperial Blue Superior Grain Whisky",
-        image: "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
-        discount: "80% Off",
-        price: "₹2799",
-        additionalPrice: "₹319.00",
-        sliderImages: [
-            "https://i.ibb.co/d0jYRD3w/20250708-233046.jpg",
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/jgtyujrtyhj.jpg"
-    },
-    {
-        id: 13,
-        type: 'product',
-        title: "(5 PACK)Royal Stag Barrel Select Whisky",
-        image: "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
-        discount: "75% Off",
-        price: "₹4599",
-        additionalPrice: "₹359.00",
-        sliderImages: [
-            "https://i.ibb.co/GmJqc6X/20250708-232413.jpg",
-            
-        ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
     },
     {
         id: 14,
