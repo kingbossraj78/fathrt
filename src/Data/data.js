@@ -100,19 +100,18 @@ export const data = [
         info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
     },
     {
-        id: 25,
+        id: 4,
         type: 'product',
-        title: "(5 PACK)McDowell's No.1 Platinum Luxury Whisky (750ml",
-        image: "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
-        discount: "75% Off",
-        price: "₹5999",
-        additionalPrice: "₹398.00",
+        title: "(4 PACK) in Stock Jameson Irish Whiskey",
+        image: "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
+        discount: "73% Off",
+        price: "₹2899",
+        additionalPrice: "₹519.00",
         sliderImages: [
-            "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
-        
+            "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/download_rMYhJP3.jpg"
     },
     {
         id: 26,
@@ -130,18 +129,19 @@ export const data = [
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
-        id: 4,
+        id: 25,
         type: 'product',
-        title: "(4 PACK) in Stock Jameson Irish Whiskey",
-        image: "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
-        discount: "73% Off",
-        price: "₹2899",
-        additionalPrice: "₹519.00",
+        title: "(5 PACK)McDowell's No.1 Platinum Luxury Whisky (750ml",
+        image: "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
+        discount: "75% Off",
+        price: "₹5999",
+        additionalPrice: "₹398.00",
         sliderImages: [
-            "https://i.ibb.co/rGdGML0z/20250629-121017.jpg",
+            "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
+        
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/download_rMYhJP3.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
         id: 5,
