@@ -30,33 +30,63 @@ export const data = [
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
-      {
-        id: 14,
+     {
+        id: 26,
         type: 'product',
-        title: "Phillies Chocolate Flavored Cigar",
-        image: "https://i.ibb.co/chPf2ZLT/1750875783-56-Jqjuv-M-800-800.webp",
-        discount: "74% Off",
-        price: "₹890",
-        additionalPrice: "₹159.00",
+        title: "Moet & Chandon Ice Imp 75cl",
+        image: "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
+        discount: "75% Off",
+        price: "₹5999",
+        additionalPrice: "₹329.00",
         sliderImages: [
-            "https://i.ibb.co/chPf2ZLT/1750875783-56-Jqjuv-M-800-800.webp",
+            "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
+        
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgawedtgqerg.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
-        id: 15,
+        id: 23,
         type: 'product',
-        title: "Budweiser",
-        image: "https://i.ibb.co/hzxddtv/20250708-232148.jpg",
-        discount: "76% Off",
-        price: "₹1899,",
-        additionalPrice: "₹289.00",
+        title: "Chivas Regal 18 YO 100cl",
+        image: "https://i.ibb.co/zWTrqBXR/1-02-N01031.jpg",
+        discount: "78% Off",
+        price: "11999",
+        additionalPrice: "449.00",
         sliderImages: [
-            "https://i.ibb.co/hzxddtv/20250708-232148.jpg",
+            "https://i.ibb.co/zWTrqBXR/1-02-N01031.jpg",
             
         ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/5.jpg"
+        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
+    },
+    {
+        id: 24,
+        type: 'product',
+        title: "(3 PACK)Ballantine's 12YO 100cl",
+        image: "https://i.ibb.co/N2rSH6HR/20250709-002642.jpg",
+        discount: "78% Off",
+        price: "11999",
+        additionalPrice: "489.00",
+        sliderImages: [
+            "https://i.ibb.co/N2rSH6HR/20250709-002642.jpg",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
+    },
+    {
+        id: 25,
+        type: 'product',
+        title: "(5 PACK)McDowell's No.1 Platinum Luxury Whisky (750ml",
+        image: "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
+        discount: "75% Off",
+        price: "₹5999",
+        additionalPrice: "₹398.00",
+        sliderImages: [
+            "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
+        
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     {
         id: 3,
@@ -212,6 +242,34 @@ export const data = [
         ], info: "https://rc.super-deel.site/uffr/media/polls/images/fasdfasdfasdf.jpg"
     },
     {
+        id: 14,
+        type: 'product',
+        title: "Phillies Chocolate Flavored Cigar",
+        image: "https://i.ibb.co/chPf2ZLT/1750875783-56-Jqjuv-M-800-800.webp",
+        discount: "74% Off",
+        price: "₹890",
+        additionalPrice: "₹159.00",
+        sliderImages: [
+            "https://i.ibb.co/chPf2ZLT/1750875783-56-Jqjuv-M-800-800.webp",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/asdfgawedtgqerg.jpg"
+    },
+    {
+        id: 15,
+        type: 'product',
+        title: "Budweiser",
+        image: "https://i.ibb.co/hzxddtv/20250708-232148.jpg",
+        discount: "76% Off",
+        price: "₹1899,",
+        additionalPrice: "₹289.00",
+        sliderImages: [
+            "https://i.ibb.co/hzxddtv/20250708-232148.jpg",
+            
+        ],
+        info: "https://rc.super-deel.site/uffr/media/polls/images/5.jpg"
+    },
+    {
         id: 16,
         type: 'product',
         title: "Turborg - kingfisher premium strong - hayward 2000",
@@ -282,64 +340,6 @@ export const data = [
         
         ],
         info: "https://rc.super-deel.site/uffr/media/polls/images/5_hxwqr2O.jpg"
-    },
-    {
-        id: 26,
-        type: 'product',
-        title: "Moet & Chandon Ice Imp 75cl",
-        image: "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
-        discount: "75% Off",
-        price: "₹5999",
-        additionalPrice: "₹329.00",
-        sliderImages: [
-            "https://i.ibb.co/xtf8CDpB/1-02-J01031-MC-ICE-IMP-75-CL.png",
-        
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
-    },
-    {
-        id: 23,
-        type: 'product',
-        title: "Chivas Regal 18 YO 100cl",
-        image: "https://i.ibb.co/zWTrqBXR/1-02-N01031.jpg",
-        discount: "78% Off",
-        price: "11999",
-        additionalPrice: "449.00",
-        sliderImages: [
-            "https://i.ibb.co/zWTrqBXR/1-02-N01031.jpg",
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
-    },
-    {
-        id: 24,
-        type: 'product',
-        title: "(3 PACK)Ballantine's 12YO 100cl",
-        image: "https://i.ibb.co/N2rSH6HR/20250709-002642.jpg",
-        discount: "78% Off",
-        price: "11999",
-        additionalPrice: "489.00",
-        sliderImages: [
-            "https://i.ibb.co/N2rSH6HR/20250709-002642.jpg",
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/singham.jpg"
-    },
-    {
-        id: 25,
-        type: 'product',
-        title: "(5 PACK)McDowell's No.1 Platinum Luxury Whisky (750ml",
-        image: "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
-        discount: "75% Off",
-        price: "₹5999",
-        additionalPrice: "₹398.00",
-        sliderImages: [
-            "https://i.ibb.co/sJC42yxw/20250709-001728.jpg",
-        
-            
-        ],
-        info: "https://rc.super-deel.site/uffr/media/polls/images/rv.jpg"
     },
     
 ];
